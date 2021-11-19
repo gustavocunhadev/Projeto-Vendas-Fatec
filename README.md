@@ -2,7 +2,7 @@
 Software de vendas em C#
 
 <p align="center">
-<a href="#computer-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#computer-tela-principal-">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#book-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
