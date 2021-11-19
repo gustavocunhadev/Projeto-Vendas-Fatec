@@ -3,7 +3,7 @@ Software de vendas em C#
 
 <p align="center">
 <a href="#computer-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#rocket-tecnologias">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -25,14 +25,14 @@ Software de vendas em C#
 
 <hr>
 
-### Sobre o Projeto
+### :book: Sobre o Projeto
 
 O software tem como função o cadastro de clientes, login de funcionarios com recuperação de senha junto a cadastro de produtos.
 
 
 <hr>
 
-### Tecnologias
+### :rocket: Tecnologias
 
 Esse projeto usou essas tecnologias:
 
