@@ -1,13 +1,27 @@
 # Projeto de Vendas FATEC
 Software de vendas em C#
 
+<p align="center">
+<a href="#computer-telas">Telas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#rocket-tecnologias">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
+### :computer: Tela Principal <br><br>
+
+
+<p align="center">
+<img alt="Tela Principal" src="https://github.com/gustavocunhadev/Projeto-Vendas-Fatec-2/blob/master/Imagens/TelaMenuPrincipal.png" width="600px" height="auto">
+</p>
+
+
 
 ### Tela Cadastro Clientes<br><br>
-<img id="primeiraImg" src="https://github.com/gustavocunhadev/Projeto-Vendas-Fatec-2/blob/master/Imagens/TelaCadastroClientes.png" width="600px" height="auto" margin-left="10px">
 
-### Tela Principal <br><br>
-<img src="https://github.com/gustavocunhadev/Projeto-Vendas-Fatec-2/blob/master/Imagens/TelaMenuPrincipal.png" width="600px" height="auto">
-
+<p align="center">
+<img alt="Tela de Cadastro de Clientes" src="https://github.com/gustavocunhadev/Projeto-Vendas-Fatec-2/blob/master/Imagens/TelaCadastroClientes.png" width="600px" height="auto" margin-left="10px">
+</p>
 
 <hr>
 
