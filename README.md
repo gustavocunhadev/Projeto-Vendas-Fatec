@@ -42,3 +42,4 @@ Esse projeto usou essas tecnologias:
 
 <hr>
 
+Obrigado por visitar! 😄
